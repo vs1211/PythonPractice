@@ -1,7 +1,7 @@
 # PythonPractice
 
 **About This Project**
-**Laptop Data Analysis**
+**Laptop Data Analysis** \n
 This project involves the analysis of a comprehensive dataset containing information about various laptop models. The primary objective is to explore the relationships between different laptop specifications, prices, and performance metrics, providing insights that can assist consumers in making informed purchasing decisions.
 
 **Dataset Overview**
